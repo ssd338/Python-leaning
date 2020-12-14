@@ -1,3 +1,6 @@
+# 예외처리, 숫자인지 물어보는 함수, 연산 함수
+# function, isdecimal(), try:~execpt:~
+
 def plus(a, b):
   return change(a, b, "+")
 
