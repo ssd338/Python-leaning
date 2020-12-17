@@ -40,5 +40,3 @@ while(yes):
       print(f"{url} is not a valid URL")
   
   yes = ask_answer()
-  
- 
